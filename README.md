@@ -7,7 +7,7 @@ This is an example to use Spring Cloud / API Rest
   
 <b>eureka-service:</b> Eureka instances can be registered and clients can discover the instances using Spring-managed beans. You can access http://localhost:8761/ to see what instances currently registered on Eureka.
   
-<b>client-service:</b> This microservice is used to create an API Rest to persist clients (listAll, add, update and delete). 
+<b>client-service:</b> This microservice is used to create an API Rest to persist a clients just a name (listAll, add, update and delete). 
 
 
 
