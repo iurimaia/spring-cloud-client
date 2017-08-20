@@ -1,4 +1,4 @@
-# spring-cloud-client
+# spring-cloud-example
 This is an example to use Spring Cloud / API Rest
 
 # Architecture
